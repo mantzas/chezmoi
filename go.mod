@@ -37,7 +37,7 @@ require (
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.8.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/twpayne/go-shell v0.3.0
 	github.com/twpayne/go-vfs/v3 v3.0.0
 	github.com/twpayne/go-xdg/v6 v6.0.0
