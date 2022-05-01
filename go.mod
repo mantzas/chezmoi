@@ -29,7 +29,7 @@ require (
 	github.com/muesli/combinator v0.3.0
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.9.0 // indirect
-	github.com/pelletier/go-toml v1.9.3
+	github.com/pelletier/go-toml v1.9.5
 	github.com/rogpeppe/go-internal v1.8.0
 	github.com/rs/zerolog v1.23.0
 	github.com/sergi/go-diff v1.1.0
