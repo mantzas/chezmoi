@@ -25,7 +25,7 @@ require (
 	github.com/kevinburke/ssh_config v1.1.0 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.15 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
-	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/muesli/combinator v0.3.0
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.9.0 // indirect
