@@ -41,15 +41,14 @@ require (
 	github.com/twpayne/go-shell v0.3.0
 	github.com/twpayne/go-vfs/v3 v3.0.0
 	github.com/twpayne/go-xdg/v6 v6.0.0
-	github.com/yuin/goldmark v1.4.0 // indirect
 	github.com/zalando/go-keyring v0.1.1
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
+	golang.org/x/sys v0.1.0
+	golang.org/x/term v0.1.0
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
