@@ -20,7 +20,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     steps:
     - name: Set up Go
-      uses: actions/setup-go@v2
+      uses: actions/setup-go@v4
       with:
         go-version: 1.16.6
     - name: Checkout
@@ -70,7 +70,7 @@ jobs:
         sudo apt-get update
         sudo apt-get -yq --no-install-suggests --no-install-recommends install musl-tools snapcraft
     - name: Set up Go
-      uses: actions/setup-go@v2
+      uses: actions/setup-go@v4
       with:
         go-version: 1.16.6
     - name: Checkout
@@ -126,7 +126,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     - name: Set up Go
-      uses: actions/setup-go@v2
+      uses: actions/setup-go@v4
       with:
         go-version: 1.16.6
     - name: Checkout
@@ -146,7 +146,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     - name: Set up Go
-      uses: actions/setup-go@v2
+      uses: actions/setup-go@v4
       with:
         go-version: 1.16.6
     - name: Checkout
@@ -186,7 +186,7 @@ jobs:
         sudo apt-get update
         sudo apt-get -yq --no-install-suggests --no-install-recommends install musl-tools snapcraft
     - name: Set up Go
-      uses: actions/setup-go@v2
+      uses: actions/setup-go@v4
       with:
         go-version: 1.16.6
     - name: Checkout
